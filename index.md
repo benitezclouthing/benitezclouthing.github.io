@@ -24,4 +24,5 @@ TWITTER:   [@Carlos_DB24](https://twitter.com/Carlos_DB24)
 
 #### SOPORTE O ACLARACIONES
 
+Correo electrónico:  carlosmaquina2402@gmail.com
 Número telefónico: 55-83-95-57-16
