@@ -1,6 +1,6 @@
 [Bienvenida](./index.md)| [Calzado](./calzado.md) | [Accesorios](./accesorios.md) | [Gorras/Gorros](./gorras.md) | [Playeras](./playeras.md) | [Joyas](./joyas.md) 
 
-CALZADO
+## CALZADO
 
 
 La necesidad de usar zapatos es principalmente para no lastimar los pies, protegerlos de humedad, piedras, polvo, los rayos del sol, y hasta de objetos muy fríos, calientes o punzocortantes.
