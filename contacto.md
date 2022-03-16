@@ -2,3 +2,13 @@
 
 
 ## CONTACTO
+
+
+<form>
+  <label for="name"> Nombres:</label><br>
+  <input type="text" id="name" name="name" value"Tus nombre"><br>
+  <label for="lname">Apellidos:</label><br>
+  <input type="text" id="lname" name="lname" value="Apellidos"><br>
+</form>
+
+![wa link_7quq1o](https://user-images.githubusercontent.com/99769777/158529713-3e130969-9838-4308-874e-116f1ab3f252.png)
