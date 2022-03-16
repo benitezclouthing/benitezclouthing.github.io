@@ -1,3 +1,3 @@
-[Bienvenida](./index.md)| [Calzado](./calzado.md) | [Accesorios](./accesorios.md) | [Gorras/Gorros](./gorras.md) | [Playeras](./playeras.md) | [Joyas](./joyas.md) 
+[Bienvenida](./index.md)| [Calzado](./calzado.md) | [Accesorios](./accesorios.md) | [Gorras/Gorros](./gorras.md) | [Playeras](./playeras.md) | [Joyas](./joyas.md) | [Contacto](./contacto.md)
 
 GORRAS/GORROS
