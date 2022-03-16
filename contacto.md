@@ -6,7 +6,7 @@
 
 <form>
   <label for="name"> Nombres:</label><br>
-  <input type="text" id="name" name="name" value="Tu(s) nombre(s)"><br>
+  <input type="text" id="name" name="name" value=""><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value=""><br>
 </form>
