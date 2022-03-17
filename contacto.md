@@ -19,6 +19,7 @@
   <label for="date">Fecha:</label>
   <input type="date" id="date" name="birthday">
   <input type="submit" value="Submit">
+  
   <label for="name"> Comentarios o sugerencias sobre la marca y página:</label><br>
   <input type="text" id="comments" name="comments" value=""><br>
   <input type="submit" value="Enviar">
