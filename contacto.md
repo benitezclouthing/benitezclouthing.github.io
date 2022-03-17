@@ -10,7 +10,7 @@
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value=""><br>
   <label for="name"> Queja o duda:</label><br>
-  <input type="text" id="complaint" name="complaint" value=""><br>
+  <input type="text" id="complaint" name="complaint" value=""><br>    
   <label for="name"> Correo Electrónico (cliente):</label><br>
   <input type="text" id="email" name="email" value=""><br>
   <label for="name"> Número Telefónico:</label><br>
