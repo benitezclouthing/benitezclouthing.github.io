@@ -16,6 +16,9 @@
   <input type="text" id="number" name="number" value=""><br>
   <label for="name"> Fecha en que podemos contactarl@:</label><br>
   <input type="text" id="date" name="date" value=""><br>
+  <label for="date">Fecha:</label>
+  <input type="date" id="date" name="birthday">
+  <input type="submit" value="Submit">
   <label for="name"> Comentarios o sugerencias sobre la marca y página:</label><br>
   <input type="text" id="comments" name="comments" value=""><br>
   <input type="submit" value="Enviar">
