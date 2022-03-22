@@ -1,4 +1,4 @@
-[Bienvenida](./index.md) | [Calzado](./calzado.md) | [Accesorios](./accesorios.md) | [Gorras/Gorros](./gorras.md) | [Playeras](./playeras.md) | [Joyas](./joyas.md) | [Contacto](./contacto.md) | [Action](./action_page.php)
+[Bienvenida](./index.md) | [Calzado](./calzado.md) | [Accesorios](./accesorios.md) | [Gorras/Gorros](./gorras.md) | [Playeras](./playeras.md) | [Joyas](./joyas.md) | [Contacto](./contacto.md)
 
 ![image](https://user-images.githubusercontent.com/99769777/157767152-a4fbd2fd-7a69-4cdd-a70b-ce489e65ffa6.png)
 
