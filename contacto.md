@@ -12,8 +12,8 @@
   <input type="text" id="complaint" name="complaint" value=""><br>    
   <label for="name"> Correo Electrónico (cliente):</label><br>
   <input type="text" id="email" name="email" value=""><br>
-  <Name: <input type="text" name="name"><br>
-  <E-mail: <input type="text" name="email"><br>
+  Name: <input type="text" name="name"><br>
+  E-mail: <input type="text" name="email"><br>
   <label for="name"> Número Telefónico:</label><br>
   <input type="text" id="number" name="number" value=""><br>
   <label for="name"> Fecha en que podemos contactarl@:</label><br>
