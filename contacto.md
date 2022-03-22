@@ -11,11 +11,10 @@
   <label for="name"> Queja o duda:</label><br>
   <input type="text" id="complaint" name="complaint" value=""><br>    
   <label for="name"> Correo Electrónico (cliente):</label><br>
-  E-mail: <input type="text" name="email"><br><br>
+  E-mail: <input type="text" name="email"><br>
   <label for="name"> Número Telefónico:</label><br>
   <input type="text" id="number" name="number" value=""><br>
   <label for="name"> Fecha en que podemos contactarl@:</label><br>
-  <input type="text" id="date" name="date" value=""><br>
   <label for="date">Fecha:</label><br>
   <input type="date" id="date" name="date"><br>
   <label for="name"> Comentarios o sugerencias sobre la marca:</label><br>
