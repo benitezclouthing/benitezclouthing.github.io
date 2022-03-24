@@ -15,7 +15,7 @@
   <label for="name"> Número Telefónico:</label><br>
   <input type="text" id="number" name="number" value=""><br>
   <label for="name"> Fecha en que podemos contactarl@:</label><br>
-  <label for="date">Fecha:</label><br>
+  <label for="date"></label><br>
   <input type="date" id="date" name="date"><br>
   <label for="name"> Comentarios o sugerencias sobre la marca:</label><br>
   <input type="text" id="comments" name="comments" value=""><br>
