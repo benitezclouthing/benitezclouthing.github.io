@@ -3,7 +3,7 @@
 
 ## CONTACTO
 
-<form action="/action_page.php" method="post">
+<form action="https://formspree.io/f/xbjwknez">
   <label for="name"> Nombres:</label><br>
   <input type="text" id="name" name="name" value=""><br>
   <label for="lname">Apellidos:</label><br>
